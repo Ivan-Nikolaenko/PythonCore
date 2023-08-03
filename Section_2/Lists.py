@@ -58,7 +58,19 @@
 # lst.remove("-")
 # lst.remove("-")
 # print("".join(lst))
-lst = list(map(str, input().split()))
-lst.sort()
-lst.pop(0)
-print(lst)
+# a = [5.4, 6.7, 10.4]
+# lst = list(map(int, input().split()))
+# a.append(lst)
+# print(a)
+# lst1 = list(map(str, input().split()))
+# lst2 = list(map(str, input().split()))
+# lst3 = list(map(str, input().split()))
+# lst4 = [lst1[:],lst2[:],lst3[:]]
+# print(lst4)
+# lst1 = list(map(int, input().split()))
+# lst2 = list(map(int, input().split()))
+# lst3 = list(map(int, input().split()))
+# a=lst1[-1]
+# b=lst2[-1]
+# c=lst3[-1]
+# print(a,b,c)
